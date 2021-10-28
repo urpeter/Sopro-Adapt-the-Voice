@@ -1,6 +1,6 @@
 # Sopro-Adapt-the-Voice
 ### Anastasia Borisenkov, Urs Peter, Annegret Janzso, Joanna Dietinger
-This github repository contains all the files we modified or added for the software project **Implementation of a personalized chatbot** 2021.  
+This github repository contains all the files we modified or added for the software project **Implementation of a personalized chatbot** in the summer semester of 2021 at the University of Saarland.  
 How to use these files and reproduce our results is explained in our report in detail. There you will find instructions on how to handle the files and what parameters to set.
 
 ## Instructions
