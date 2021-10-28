@@ -13,10 +13,10 @@ while IFS= read -r line; do
 	echo $text;
 	echo $path;
 	# echo $new_folder;
-	python inference.py \-c config_dir/harvard_libritts/config_louisa.json \
+	python inference.py \-c config_louisa.json \
 	\-f "1841_attn_0_ignore_trim/model_140000" \-w "models/waveglow_256channels_universal_v4.pt" \
-	\-t "$text" \-i 1841 \-s 0.75 \-g 1 \-o "/local/anasbori/synth4/$path" \-n ${ARG_N};
-	mv /local/anasbori/synth4/$path/sid1841_sigma0.75.wav /local/anasbori/synth4/$path/$filename; 
-	# mv "$new_folder" "/local/anasbori/synth/$new_folder";
-	# scp -r results anasbori@login2:/local/anasbori/1841_4000_6k_${ARG_A};
+	\-t "$text" \-i 1841 \-s 0.75 \-g 1 \-o "somepath/$path" \-n ${ARG_N};
+	mv somepath/$path/sid1841_sigma0.75.wav somepath/$path/$filename; 
+	#mv "$new_folder" "somepath/$new_folder";
+	#scp -r results somepath/1841_4000_6k_${ARG_A};
 done < $1 
