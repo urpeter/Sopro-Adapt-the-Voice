@@ -1,0 +1,144 @@
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list07_EndPointed/Harvard_L07_S01_0.wav|Take the match and strike it against your shoe.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list07_EndPointed/Harvard_L07_S02_0.wav|One step more and the board will collapse.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list07_EndPointed/Harvard_L07_S03_0.wav|The pot boiled, but the contents failed to jell.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list07_EndPointed/Harvard_L07_S04_0.wav|It was a bad error on the part of the new judge.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list07_EndPointed/Harvard_L07_S05_0.wav|The bombs left most of the town in ruins.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list07_EndPointed/Harvard_L07_S06_0.wav|The store was jammed before the sale could start.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list07_EndPointed/Harvard_L07_S07_0.wav|The streets are narrow and full of sharp turns.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list07_EndPointed/Harvard_L07_S08_0.wav|The pup jerked the leash as he saw a feline shape.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list07_EndPointed/Harvard_L07_S09_0.wav|The baby puts his right foot in his mouth.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list07_EndPointed/Harvard_L07_S10_0.wav|Stop and stare at the hard working man.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list09_EndPointed/Harvard_L09_S01_0.wav|Fish evade the net, and swim off.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list09_EndPointed/Harvard_L09_S02_0.wav|Leave now and you will arrive on time.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list09_EndPointed/Harvard_L09_S03_0.wav|The corner store was robbed last night.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list09_EndPointed/Harvard_L09_S04_0.wav|Dip the pail once and let it settle.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list09_EndPointed/Harvard_L09_S05_0.wav|The big red apple fell to the ground.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list09_EndPointed/Harvard_L09_S06_0.wav|Will you please answer that phone.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list09_EndPointed/Harvard_L09_S07_0.wav|Open your book to the first page.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list09_EndPointed/Harvard_L09_S08_0.wav|He sent the boy on a short errand.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list09_EndPointed/Harvard_L09_S09_0.wav|The young prince became heir to the throne.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list09_EndPointed/Harvard_L09_S10_0.wav|The curtain rose and the show was on.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list11_EndPointed/Harvard_L11_S01_0.wav|Our troops are set to strike heavy blows.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list11_EndPointed/Harvard_L11_S02_0.wav|A stuffed chair slipped from the moving van.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list11_EndPointed/Harvard_L11_S03_0.wav|The stitch will serve but needs to be shortened.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list11_EndPointed/Harvard_L11_S04_0.wav|The gloss on top made it unfit to read.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list11_EndPointed/Harvard_L11_S05_0.wav|A flat pack takes less luggage space.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list11_EndPointed/Harvard_L11_S06_0.wav|Green ice frosted the punch bowl.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list11_EndPointed/Harvard_L11_S07_0.wav|The hail pattered on the burnt brown grass.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list11_EndPointed/Harvard_L11_S08_0.wav|Seven seals were stamped on great sheets.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list11_EndPointed/Harvard_L11_S09_0.wav|The steady drip is worse than a drenching rain.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list11_EndPointed/Harvard_L11_S10_0.wav|A thin book fits in the side pocket.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list26_EndPointed/Harvard_L26_S01_0.wav|The ram scared the school children off.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list26_EndPointed/Harvard_L26_S02_0.wav|The team with the best timing looks good.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list26_EndPointed/Harvard_L26_S03_0.wav|The latch on the beck gate needed a nail.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list26_EndPointed/Harvard_L26_S04_0.wav|Sit on the perch and tell the others what to do.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list26_EndPointed/Harvard_L26_S05_0.wav|The early phase of life moves fast.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list26_EndPointed/Harvard_L26_S06_0.wav|A steep trail is painful for our feet.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list26_EndPointed/Harvard_L26_S07_0.wav|Tea in thin china has a sweet taste.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list26_EndPointed/Harvard_L26_S08_0.wav|The farmer swapped his horse for a brown ox.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list26_EndPointed/Harvard_L26_S09_0.wav|Green moss grows on the northern side.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list26_EndPointed/Harvard_L26_S10_0.wav|Pitch the straw through the door of the stable.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list30_EndPointed/Harvard_L30_S02_0.wav|Hold the hammer near the end to drive the nail.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list30_EndPointed/Harvard_L30_S05_0.wav|The brass tube circled the high wall.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list30_EndPointed/Harvard_L30_S07_0.wav|The lobes of her ears were pierced to hold rings.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list30_EndPointed/Harvard_L30_S10_0.wav|Next Sunday is the twelfth of the month.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list44_EndPointed/Harvard_L44_S01_0.wav|Dots of light betrayed the black cat.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list44_EndPointed/Harvard_L44_S02_0.wav|The red paper brightened the dim stage.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list44_EndPointed/Harvard_L44_S03_0.wav|Many hands help get the job done.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list44_EndPointed/Harvard_L44_S04_0.wav|We don't like to admit our small faults.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list44_EndPointed/Harvard_L44_S05_0.wav|Slide the bill between the two leaves.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list44_EndPointed/Harvard_L44_S06_0.wav|Put the chart on the mantel and tack it down.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list44_EndPointed/Harvard_L44_S07_0.wav|Dig deep in the earth for pirate's gold.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list44_EndPointed/Harvard_L44_S08_0.wav|See the player scoot to third base.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list44_EndPointed/Harvard_L44_S09_0.wav|No doubt about the way the wind blows.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list44_EndPointed/Harvard_L44_S10_0.wav|The night shift men rate extra pay.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list48_EndPointed/Harvard_L48_S01_0.wav|She called his name many times.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list48_EndPointed/Harvard_L48_S02_0.wav|A gold ring will please most any girl.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list48_EndPointed/Harvard_L48_S03_0.wav|The blind man counted his old coins.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list48_EndPointed/Harvard_L48_S04_0.wav|The long journey home took a year.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list48_EndPointed/Harvard_L48_S05_0.wav|A severe storm tore down the barn.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list48_EndPointed/Harvard_L48_S06_0.wav|Small children came to see him.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list48_EndPointed/Harvard_L48_S07_0.wav|She saw a cat in the neighbor's house.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list48_EndPointed/Harvard_L48_S08_0.wav|A pink shell was found on the sandy beach.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list48_EndPointed/Harvard_L48_S09_0.wav|The grass and bushes were wet with dew.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list48_EndPointed/Harvard_L48_S10_0.wav|When you hear the bell, come quickly.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list53_EndPointed/Harvard_L53_S01_0.wav|He put his last cartridge into the gun and fired.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list53_EndPointed/Harvard_L53_S02_0.wav|Drive the screw straight into the wood.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list53_EndPointed/Harvard_L53_S03_0.wav|Slide the catch back and open the desk.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list53_EndPointed/Harvard_L53_S04_0.wav|A sullen smile gets few friends.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list53_EndPointed/Harvard_L53_S05_0.wav|Sever the twine with a quick snip of the knife.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list53_EndPointed/Harvard_L53_S06_0.wav|Every word and phrase he speaks is true.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list53_EndPointed/Harvard_L53_S07_0.wav|Help the weak to preserve their strength.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list53_EndPointed/Harvard_L53_S08_0.wav|Paper will dry out when wet.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list53_EndPointed/Harvard_L53_S09_0.wav|They took their kids from the public school.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list53_EndPointed/Harvard_L53_S10_0.wav|Keep the hatch tight and the watch constant.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list58_EndPointed/Harvard_L58_S01_0.wav|The mail comes in three batches per day.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list58_EndPointed/Harvard_L58_S02_0.wav|The poor boy missed the boat again.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list58_EndPointed/Harvard_L58_S03_0.wav|A round mat will cover the dull spot.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list58_EndPointed/Harvard_L58_S04_0.wav|The first part of the plan needs changing.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list58_EndPointed/Harvard_L58_S05_0.wav|Hang tinsel from both branches.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list58_EndPointed/Harvard_L58_S06_0.wav|Pick a card and slip it under the pack.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list58_EndPointed/Harvard_L58_S07_0.wav|Cap the jar with a tight brass cover.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list58_EndPointed/Harvard_L58_S08_0.wav|Be sure to set the lamp firmly in the hole.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list58_EndPointed/Harvard_L58_S09_0.wav|The good book informs of what we ought to know.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list58_EndPointed/Harvard_L58_S10_0.wav|You cannot brew tea in a cold pot.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list61_EndPointed/Harvard_L61_S01_0.wav|The cloud moved in a stately way and was gone.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list61_EndPointed/Harvard_L61_S02_0.wav|A stiff cord will do to fasten your shoe.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list61_EndPointed/Harvard_L61_S03_0.wav|Set the piece here and say nothing.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list61_EndPointed/Harvard_L61_S04_0.wav|Slide the tray across the glass top.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list61_EndPointed/Harvard_L61_S05_0.wav|Choose between the high road and the low.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list61_EndPointed/Harvard_L61_S06_0.wav|Light maple makes for a swell room.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list61_EndPointed/Harvard_L61_S07_0.wav|Get the trust fund to the bank early.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list61_EndPointed/Harvard_L61_S08_0.wav|Stop whistling and watch the boys march.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list61_EndPointed/Harvard_L61_S09_0.wav|Jerk the cord, and out tumbles the gold.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list61_EndPointed/Harvard_L61_S10_0.wav|Dull stories make her laugh.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list62_EndPointed/Harvard_L62_S01_0.wav|The slab was hewn from heavy blocks of slat'e.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list62_EndPointed/Harvard_L62_S02_0.wav|The mule trod the treadmill day and night.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list62_EndPointed/Harvard_L62_S03_0.wav|The aim of the contest is to raise a great fund.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list62_EndPointed/Harvard_L62_S04_0.wav|Cod is the main business of the north shore.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list62_EndPointed/Harvard_L62_S05_0.wav|To send it now in large amounts is bad.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list62_EndPointed/Harvard_L62_S06_0.wav|Dunk the stale biscuits into strong drink.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list62_EndPointed/Harvard_L62_S07_0.wav|The rarest spice comes from the far East.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list62_EndPointed/Harvard_L62_S08_0.wav|The roof should be tilted at a sharp slant.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list62_EndPointed/Harvard_L62_S09_0.wav|A smatter of French is worse than none.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list62_EndPointed/Harvard_L62_S10_0.wav|There is a fine hard tang in salty air.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list67_EndPointed/Harvard_L67_S01_0.wav|Dimes showered down from all sides.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list67_EndPointed/Harvard_L67_S02_0.wav|The knife was hung inside its bright sheath.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list67_EndPointed/Harvard_L67_S03_0.wav|Ship maps are different from those for planes.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list67_EndPointed/Harvard_L67_S04_0.wav|They sang the same tunes at each party.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list67_EndPointed/Harvard_L67_S05_0.wav|The horse balked and threw the tall rider.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list67_EndPointed/Harvard_L67_S06_0.wav|The pods of peas ferment in bare fields.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list67_EndPointed/Harvard_L67_S07_0.wav|The hitch between the horse and cart broke.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list67_EndPointed/Harvard_L67_S08_0.wav|The sky in the west is tinged with orange red.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list67_EndPointed/Harvard_L67_S09_0.wav|Pile the coal high in the shed corner.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list67_EndPointed/Harvard_L67_S10_0.wav|The gold vase is both rare and costly.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list70_EndPointed/Harvard_L70_S01_0.wav|Greet the new guests and leave quickly.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list70_EndPointed/Harvard_L70_S02_0.wav|A thin stripe runs down the middle.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list70_EndPointed/Harvard_L70_S03_0.wav|Sweet words work better than fierce.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list70_EndPointed/Harvard_L70_S04_0.wav|There is a strong chance it will happen once more.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list70_EndPointed/Harvard_L70_S05_0.wav|A plea for funds seems to come again.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list70_EndPointed/Harvard_L70_S06_0.wav|Lush fern grow on the lofty rocks.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list70_EndPointed/Harvard_L70_S07_0.wav|He lent his coat to the tall gaunt stranger.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list70_EndPointed/Harvard_L70_S08_0.wav|A six comes up more often than a ten.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list70_EndPointed/Harvard_L70_S09_0.wav|The duke left the park in a silver coach.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list70_EndPointed/Harvard_L70_S10_0.wav|When the frost has come it is time for turkey.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list71_EndPointed/Harvard_L71_S01_0.wav|It was done before the boy could see it.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list71_EndPointed/Harvard_L71_S02_0.wav|Bad nerves are jangled by a door slam.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list71_EndPointed/Harvard_L71_S03_0.wav|Pack the kits and don't forget the salt.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list71_EndPointed/Harvard_L71_S04_0.wav|A streak of color ran down the left edge.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list71_EndPointed/Harvard_L71_S05_0.wav|Poached eggs and tea must suffice.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list71_EndPointed/Harvard_L71_S06_0.wav|Tear a thin sheet from the yellow pad.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list71_EndPointed/Harvard_L71_S07_0.wav|Fine soap saves tender skin.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list71_EndPointed/Harvard_L71_S08_0.wav|A cruise in warm waters in a sleek yacht is fun.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list71_EndPointed/Harvard_L71_S09_0.wav|Crouch before you jump or miss the mark.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list71_EndPointed/Harvard_L71_S10_0.wav|The square peg will settle in the round hole.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list72_EndPointed/Harvard_L72_S01_0.wav|She flaps her cape as she parades the street.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list72_EndPointed/Harvard_L72_S02_0.wav|Post no bills on this office wall.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list72_EndPointed/Harvard_L72_S03_0.wav|A whiff of it will cure the most stubborn cold.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list72_EndPointed/Harvard_L72_S04_0.wav|The loss of the cruiser was a blow to the fleet.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list72_EndPointed/Harvard_L72_S05_0.wav|The sink is the thing in which we pile dishes.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list72_EndPointed/Harvard_L72_S06_0.wav|Plead with the lawyer to drop the lost cause.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list72_EndPointed/Harvard_L72_S07_0.wav|Loop the braid to the left and then over.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list72_EndPointed/Harvard_L72_S08_0.wav|Calves thrive on tender spring grass.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list72_EndPointed/Harvard_L72_S09_0.wav|The facts don't always show who is right.|6415
+/local/anasbori/sopro_tts/flowtron/data/louisa_trim/HARVARD_list72_EndPointed/Harvard_L72_S10_0.wav|The goose was brought straight from the old market.|6415
