@@ -29,4 +29,4 @@ It initiates the inference and saves them to the specified location.
 
 ## Eval 
 For evaluation we used streamlit with the human_eval.py script, simply put respective data in the synthesized and the original directories and execute human_eval.py to collect the necessary data.
-The interpretation is done by the eval_interpretation file. It takes the generated .db files from the human_eval script and visualises the results as graphs.
+<br/>The interpretation is done by the eval_interpretation file. It takes the generated .db files from the human_eval script and visualises the results as graphs.
