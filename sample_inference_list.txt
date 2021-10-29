@@ -1,0 +1,2 @@
+somepath/data/louisa/pres/Harvard_L01_S01_0.wav|He peeped under the bank of the brook.|1841  
+somepath/data/louisa/pres/Harvard_L01_S02_0.wav|She brought the canoe to the riverbank.|1841  

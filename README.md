@@ -17,8 +17,14 @@ In utils you will find some useful scripts that can help with data conversion an
 
 ## Training
 Training and fine-tuning can be done as described in our report.
+The commands we used are the following:
+Initially:
+ - python train.py -c config_dir/harvard_libritts/config_louisa.json -p train_config.finetune_layers=["speaker_embedding.weight"] train_config.warmstart_checkpoint_path="models/flowtron_libritts2k.pt" data_config.use_attn_prior=1 train_config.output_directory=1841_attn0
+After good looking attention:
+- 
+python train.py -c config_dir/harvard_libritts/config_louisa.json -p train_config.finetune_layers=["speaker_embedding.weight"] train_config.warmstart_checkpoint_path="outdir2_1841/model_221000" data_config.use_attn_prior=0 train_config.output_directory=1841_attn0
 ## Inference
-For inference use the provided shell script run_inference.sh somefile.txt. It will infer sentences given in the format of the filelist. You can adapt this script easily. <br/>
+For inference use the provided shell script run_inference.sh. It will infer sentences given in the format of the filelist. You can adapt this script easily. <br/>
 It initiates the inference and saves them to the specified location.
 
 ## Eval 
